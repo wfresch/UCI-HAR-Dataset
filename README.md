@@ -4,6 +4,7 @@
 1. Set the working directory to UCI-HAR-Dataset.
 2. Use 'source("run_analysis.R")' to load the run_analysis.R file.
 3. Type "tidyData()" to extract Tidy data from the files.
+4. Tidy data will be output to 'output.txt'
 
 ##The tidyData function performs the following steps:
 1. Read the x and y test files into data-frames.
